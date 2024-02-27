@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhuwan shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuwan shrestha" height="30" width="40" /></a>
-<a href="https://fb.com/भुवन श्रेष्ठ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="भुवन श्रेष्ठ" height="30" width="40" /></a>
-<a href="https://instagram.com/leo.ayan_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leo.ayan_official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wealthhustle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wealthhustle" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhuwan-shrestha-5989a5231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuwan shrestha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/senior.gaming.10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="भुवन श्रेष्ठ" height="30" width="40" /></a>
+<a href="https://www.instagram.com/leo.ayan_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leo.ayan_official" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCtJDHvk3MPsV7kK3YrKQ1og" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wealthhustle" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
