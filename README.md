@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuwanshrestha187&label=Profile%20views&color=0e75b6&style=flat" alt="bhuwanshrestha187" /> </p>
 
-- 🔭 I’m a recent Software Engineering graduate. **Conestoga College**
+- 🔭 I’m a recent Software Engineering graduate from **Conestoga College.**
 
 - 🌱 I specialize in  **C, C++, Python, Java, C#, ASP.NET, HTML5, CSS3, JavaScript, Android Development, Embedded Programming, Linux Programming, Systems Programming**
 
-- 👯 I’m looking for internships or entry-level roles on **Software Development Roles.**
+- 👯 I’m looking for internships or entry-level roles on **Software Development.**
 
 - 👨‍💻 All of my projects are available at [123.com](123.com)
 
