@@ -1,15 +1,15 @@
 ![logo](https://github.com/BhuwanShrestha187/BhuwanShrestha187/blob/main/MyBanner.png)
 <h1 align="center">Hi 👋, I'm Bhuwan Shrestha</h1>
-<h3 align="center">A passionate Software Engineering Student from Nepal.</h3>
+<h3 align="center">A passionate Software Engineering Graduate from Nepal.</h3>
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuwanshrestha187&label=Profile%20views&color=0e75b6&style=flat" alt="bhuwanshrestha187" /> </p>
 
-- 🔭 I’m currently studying Software Engineering. **Conestoga College**
+- 🔭 I’m a recent Software Engineering graduate. **Conestoga College**
 
-- 🌱 I’m currently learning **C, C++, Python, Java, C#, ASP.NET, HTML5, CSS3, JavaScript, Android Development, Embedded Programming, Linux Programming, Systems Programming**
+- 🌱 I specialize in  **C, C++, Python, Java, C#, ASP.NET, HTML5, CSS3, JavaScript, Android Development, Embedded Programming, Linux Programming, Systems Programming**
 
-- 👯 I’m looking to collaborate on **.NET projects.**
+- 👯 I’m looking for internships or entry-level roles on **Software Development Roles.**
 
 - 👨‍💻 All of my projects are available at [123.com](123.com)
 
